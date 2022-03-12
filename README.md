@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SchoolHater8
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, C++, C, JS, Python (eww),  
+- 🌱 I’m currently learning Java, C++, C, JS, Python (eww)
 - 💞️ I’m looking to collaborate on minecraft plugins (Java edition (idk if there's plugins on bedrock or not))
 
 <!---
