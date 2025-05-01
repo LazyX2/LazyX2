@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LazyX2
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, C++, C, JS, Python (eww)
-- 💞️ I’m looking to collaborate on minecraft plugins (Java edition (idk if there's plugins on bedrock or not))
+- 👋 Hi, I’m LazyX2
+- 👀 I’m interested in programming and electronics
+- 🌱 I’m currently learning Java, C++, C, C# (Microsoft Java), JS, and Python (eww)
 
 <!---
 SchoolHater8/SchoolHater8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
